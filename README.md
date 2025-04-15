@@ -12,7 +12,7 @@ AI/ML, Web Dev
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [MyPortfolio](http://arush04.github.io/)
 * ✉️  You can contact me at [sharmaarush591@gmail.com](mailto:sharmaarush591@gmail.com)
-* 🧠  I'm interested in NLP, LLM
+* 🧠  I'm interested in NLP, LLM, Computer Vision
 
 ### Skills
 
