@@ -1,13 +1,9 @@
 Hi 👋 My name is Arush Sharma
 =============================
 
-AI/ML, Web Dev
---------------
-
-👋 Hello, I'm Arush Sharma!  
-🧠 Machine Learning Enthusiast with an ambition to continue learning   
-🌐 Open Source Advocate  
-🔍 Always seeking new challenges to learn and expand my skillset  
+🧠 Machine Learning Enthusiast, learning at the speed of slow!    
+🌐 Open Source Advocate.
+🔍 Always seeking new challenges to learn and expand my skillset.  
 
 * 🌍  I'm based in Delhi, India
 * 🖥️  See my portfolio at [MyPortfolio](http://arush04.github.io/)
