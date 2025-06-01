@@ -2,7 +2,7 @@ Hi 👋 My name is Arush Sharma
 =============================
 
 🧠 Machine Learning Enthusiast, learning at the speed of slow!    
-🌐 Open Source Advocate.
+🌐 Open Source Advocate.  
 🔍 Always seeking new challenges to learn and expand my skillset.  
 
 * 🌍  I'm based in Delhi, India
